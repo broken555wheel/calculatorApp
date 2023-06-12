@@ -1,18 +1,16 @@
+/* Setting the background color */
 body{
   background-color:black;
   
 }
-
+/* Styling the table header */
 th{
   color: aqua;
   font-family: monospace;
   font-size: 2rem;
 }
 
-table{
-  display: inline-block;
-}
-
+/* Styling buttons */
 button{
   margin: 0.6rem;
   text-align: center;
@@ -24,7 +22,7 @@ button{
   color: #FF0000; 
 }
 
-
+/* Styling the display bar */
 #result{
   display: inline-block;
   background-color: white;
@@ -35,6 +33,7 @@ button{
   color: #FF0000;
 }
 
+/* Styling the equal sign */
 .equalSign{
   background-color: #FF0000;
   color:aqua;
